@@ -1,0 +1,17 @@
+.proInfo-hold{
+    width: 80%;
+    margin: 50px 10%;
+    background-color: #a6d48d;
+    border-radius: 50px;
+}
+
+.proInfo-content{
+    padding: 50px;
+    display: flex;
+    flex-direction: row;
+}
+
+.proImgs-hold{
+    width: 30%;
+    margin-right: 50px;
+}
